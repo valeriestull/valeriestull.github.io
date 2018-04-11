@@ -70,7 +70,7 @@ disintegrating*.  Imagine the cat under the dining room
 table pressing its nose to your shin.  Imagine me in a robe  
 stirring kitchen things with a long wooden spoon. You  
 say, *The largest part of me is yours for the taking*. I know  
-of course, the way your fingers collect splinters.  *All I
+of course, the way your fingers collect splinters.  *All I  
 have to give I want to give to you.*  
 We laugh at the weight of all the bullshit in the world and  
 how it weighs less than you mean.  You mean everything  
@@ -110,7 +110,7 @@ it through the mandarin orange until it hits the bottom can
 ever so slightly. Yes, that sound, that pressure.  That’s all  
 you need.  Peel the dry skin from your heel and place it in  
 geometric shapes on the table.  Wait for your breath to  
-move them. Yes, that breath. That’s all you need. We are
+move them. Yes, that breath. That’s all you need. We are  
 sorry, too, and honestly.  
 *My real-pseudo-life*.  Our mutual friends.  We’re too busy  
 and tired all the time.  We’re a smashed lotus  
