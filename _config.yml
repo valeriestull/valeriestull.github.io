@@ -45,6 +45,8 @@ nav:
 #    href:           "/contact"
   - name:           "CV"
     href:           "/assets/cv.pdf"
+  - name:           "Publications"
+    href:           "/publications"
   - name:           "Poetry"
     href:           "/poetry"
 #  - name:           "Projects"
