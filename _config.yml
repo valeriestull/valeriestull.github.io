@@ -39,14 +39,14 @@ markdown:           rdiscount
 nav:
   - name:           "About"
     href:           "/about-me"
-  - name:           "Poetry"
-    href:           "/poetry"
 #  - name:           "Blog"
 #    href:           "/blog"
 #  - name:           "Contact"
 #    href:           "/contact"
   - name:           "CV"
     href:           "/assets/cv.pdf"
+  - name:           "Poetry"
+    href:           "/poetry"
 #  - name:           "Projects"
 #    href:           "/projects"
 
