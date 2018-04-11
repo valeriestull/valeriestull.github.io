@@ -3,8 +3,7 @@ title: PUBLICATIONS
 permalink: /publications/
 ---
 
-## PEER-REVIEWED
-
+## SELECTED PUBLICATIONS
 
 - Stull, V., Nkunika, P., and Bergmans, R. (2016) “The New Protein: Benefits of Insect Foods.” Science Tech. News. Volume 12, No. 1, pgs. 9-12.
 - Stull, V., Bell, M., and Ncwadi, M. (2016) “<a href="https://www.sciencedirect.com/science/article/pii/S0743016716300572">Environmental Apartheid: Eco-Health and Rural Marginalization in South Africa</a>.” Journal of Rural Studies.  
