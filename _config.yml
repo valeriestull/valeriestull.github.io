@@ -1,0 +1,76 @@
+# # # # # # # #
+#   K i k o   #
+# # # # # # # #
+
+# Basic
+name:               "VALERIE"
+
+# Pagination
+paginate: 4
+excerpt_separator: <!--more-->
+paginate_path: "blog/page:num/"
+
+# URL
+baseurl:            ""
+url: ""
+#baseurl:            "" #For Root Domain
+permalink:          /:year/:month/:day/:title.html
+
+# Disqus Comments
+disqus:
+    # Leave shortname blank to disable comments site-wide.
+    # Disable comments for any post by adding `comments: false` to that post's YAML Front Matter.
+    shortname: tobias-lunt
+
+# Social Media
+twitter_username: MIGHTinsects
+
+# Assets
+assets:
+  sources:
+    - _assets/fonts
+    - _assets/font-awesome-4.3.0
+    - _assets/img
+
+# Markdown
+markdown:           rdiscount
+
+# Navigation
+nav:
+  - name:           "About"
+    href:           "/about-me"
+#  - name:           "Blog"
+#    href:           "/blog"
+#  - name:           "Contact"
+#    href:           "/contact"
+  - name:           "CV"
+    href:           "/assets/cv.pdf"
+#  - name:           "Projects"
+#    href:           "/projects"
+
+# Sass
+sass:
+  style:            :compressed
+
+# Scopes
+defaults:
+  -
+    scope:
+      path:         ""
+      type:         "pages"
+    values:
+      layout:       "page"
+  -
+    scope:
+      path:         ""
+      type:         "posts"
+    values:
+      layout:       "post"
+
+include: [
+  ".htaccess",
+  ".htpasswd"
+]
+
+# Gems
+gems: [jekyll-paginate]
