@@ -39,6 +39,8 @@ markdown:           rdiscount
 nav:
   - name:           "About"
     href:           "/about-me"
+  - name:           "Poetry"
+    href:           "/poetry"
 #  - name:           "Blog"
 #    href:           "/blog"
 #  - name:           "Contact"
