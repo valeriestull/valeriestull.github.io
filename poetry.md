@@ -11,12 +11,22 @@ permalink: /poetry/
 Theory of Everything
 by v.stull 
 
-Close your mouth. A body you know is re-teaching you to breathe. Let me sound out the alphabet 
-with my own tongue. Press your palm to my chest, while I trace the shadows on your back. Winter leaves us still wanting.  Imagine my elbow resting 
-on the piano, my eyes damp, the smell of apples 
-on my neck in the dusty light.  I am humming     
-that song we both know.  The one always off-key and awkward.  I am sketching the moon 
-on the dining room table.  A place for gathering.  When we were young we made patchwork mazes with fishhooks and rusty cans.  We navigated on crooked toes. We can find the door this key opens.  Our minds are weak enough to melt, to admit things.  I’m as drunk as your father at his retirement party.  And you are petting me with calloused thumbs.  
+Close your mouth. A body you know is re-teaching you
+to breathe. Let me sound out the alphabet 
+with my own tongue. Press your palm to my chest, while
+I trace the shadows on your back. *Winter leaves us still
+wanting*.  Imagine my elbow resting  
+on the piano, my eyes damp, the smell of apples  
+on my neck in the dusty light.  I am humming  
+that song we both know.  The one always off-key and
+awkward.  I am sketching the moon  
+on the dining room table.  *A place for gathering*. When
+we were young we made patchwork mazes with
+fishhooks and rusty cans.  We navigated on crooked toes.
+We can find the door this key opens.  Our minds are weak
+enough to melt, to admit things.  *I’m as drunk as your
+father at his retirement party.  And you are petting me
+with calloused thumbs*.  
 I bristle when you stroke my hair. Stroke my hair.  
 It isn’t that the sun can’t creep between our blinds, it’s that we don’t recognize the light for what it is. We like our mysteries slightly underdone so as not 
 to awake angry beasts.  The inner worlds of panic taste like soap.  
