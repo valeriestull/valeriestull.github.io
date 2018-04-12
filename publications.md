@@ -11,3 +11,6 @@ permalink: /publications/
 - Stull, V., Norris, T., and Matthews, M.  (2010) Data Sets, Data Platforms, Data Utility: Resource Compendium. Oakland, CA: Public Health Institute.  
 - Weir, T., Bais, H., Stull, V., Callaway, R, Thelen, G., Ridenour, W., Bhamidi, S., Stermitz, F, and Vivanco, J. (2006) “<a href="https://www.ncbi.nlm.nih.gov/pubmed/16395587">Oxalate contributes to the resistance of Gaillardia grandiflora and Lupinus sericeus to a phytotoxin produced by Centaurea maculosa</a>.” Planta 223: 785-795  
 - Weir, T., Stull, V., Badri, D., Trunck, L., Schweizer, H., Vivanco, J. (2008) “<a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2547029/">Global Gene Expression Profiles Suggest an Important Role for Nutrient Acquisition in Early Pathogenesis in a Plant Model of Pseudomonas aeruginosa Infection</a>.” Applied & Environmental Microbiology 74 (18): 5784-94
+
+<hr>
+*For a complete list of publications, please see my CV [here](http://valeriestull.com/assets/cv.pdf).*
