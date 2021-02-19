@@ -15,7 +15,7 @@ of low-cost protein.  Through my
 career, I have developed:
 
   
-- Successful project leadership, raising over $250,000 in
+- Successful project leadership, raising $375,000 in
   research funding, personally hiring and managing nine research team
   members, and running a multi-university clinical trial.
 
