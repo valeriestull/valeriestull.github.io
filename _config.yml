@@ -47,6 +47,8 @@ nav:
     href:           "/assets/cv.pdf"
   - name:           "Publications"
     href:           "/publications"
+  - name:           "Outreach"
+    href:           "/outreach"
 #  - name:           "Poetry"
 #    href:           "/poetry"
 #  - name:           "Projects"
