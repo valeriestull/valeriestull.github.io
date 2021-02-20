@@ -12,12 +12,12 @@ My focal areas are international development, planetary health,
 applied research impact, and cross-cultural partnership.  During my PhD, I
 focused on edible insects as a climate-friendly and sustainable source
 of low-cost protein.  Through my
-career, I have developed:
+career, I have developed my toolkit in the following ways:
 
   
 - Successful project leadership, raising $375,000 in
   research funding, personally hiring and managing nine research team
-  members, and running a multi-university clinical trial.
+  members, and running a multi-university clinical trial
 
 - Strong research capabilities including applied field research,
   health impact assessment, clinical trials, survey development and
