@@ -23,7 +23,7 @@ disqus:
     shortname: tobias-lunt
 
 # Social Media
-twitter_username: MIGHTinsects
+twitter_username: _vstull_
 
 # Assets
 assets:
@@ -49,8 +49,10 @@ nav:
     href:           "/publications"
   - name:           "Outreach"
     href:           "/outreach"
-#  - name:           "Poetry"
-#    href:           "/poetry"
+  - name:           "Poetry"
+    href:           "/poetry"
+  - name:           "Service"
+    href:           "/service"
 #  - name:           "Projects"
 #    href:           "/projects"
 

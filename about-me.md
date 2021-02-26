@@ -15,7 +15,7 @@ of low-cost protein.  Through my
 career, I have developed my toolkit in the following ways:
 
   
-- Successful project leadership, raising $375,000 in
+- Successful project leadership, raising over $350,000 in
   research funding, personally hiring and managing nine research team
   members, and running a multi-university clinical trial
 
@@ -47,4 +47,4 @@ agriculture, and women's empowerment through my organization, the Mission to Imp
 Global Health Through Insects (MIGHTi), see [the MIGHTi
 website](http://mighti.co/).*
 
-![image-title-here](/assets/img/headshot.png){:class="img-responsive"}
+![valerie-stull](/assets/img/headshot.png){:class="img-responsive"}
