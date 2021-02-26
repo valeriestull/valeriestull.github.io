@@ -7,12 +7,12 @@ permalink: /service/
 <i>Board Member & Volunteer</i>   
 
 Kidlinks World is a non-profit operating in Madison, Wisconsin and
-Johannesburg, South Africa. Kidlinks empowers vulnerable children and
+South Africa. Kidlinks empowers vulnerable children and
 youth through education, caregiving, and skills training by directly
 connecting donors with grassroots initiatives.
 
 I provide administrative and organizational support for fundraising, project planning,
-organization, and outreach - and coordinate field-projects for US volunteers and students.
+ and outreach. I also coordinate field-projects for US volunteers and students.
 
 <br>
 ### [The LAND Project](https://thelandproject.org/)
