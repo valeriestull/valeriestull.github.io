@@ -23,7 +23,14 @@ food and feed.</i>
 <br>
 <hr>
 
-### Wisconsin Public Radio interview
+### [The Need to Improve Student Literacy in Climate and Health](https://www.nrdc.org/experts/vijay-limaye/need-improve-student-literacy-climate-and-health)
+<i>A co-authored blog post for the National Resources Defense Council describing links between children's health and
+climate change.</i>
+[![nrdc](/assets/img/nrdc-blog.jpg){:class="img-responsive" width="560"}](https://www.nrdc.org/experts/vijay-limaye/need-improve-student-literacy-climate-and-health)
+<br>
+<hr>
+
+### [Wisconsin Public Radio interview](https://www.wuwm.com/post/how-insects-could-help-solve-global-food-challenges)
 <i>How Insects Could Help Solve Global Food Challenges.</i>
 [![wpr](/assets/img/flying-ants.jpg){:class="img-responsive" width="560"}](https://www.wuwm.com/post/how-insects-could-help-solve-global-food-challenges)
 <br>
@@ -58,5 +65,12 @@ Planetary Boundaries.</i>
 societal benefits of consuming insects, particularly in developing
 country contexts.</i>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/icVet6WJIWY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br>
+<hr>
+
+### [Edible insects and the microbiome](https://www.globalsoilbiodiversity.org/blog-beneath-our-feet/2019/2/27/bugs-for-our-bugs-edible-insects-and-the-microbiome)
+<i>A blog post for the Soil Biodiversity Initiative describing my
+work exploring novel fibers from insects and human microbiome.</i>
+[![biome](/assets/img/smoothie.jpg){:class="img-responsive" width="560"}](https://www.globalsoilbiodiversity.org/blog-beneath-our-feet/2019/2/27/bugs-for-our-bugs-edible-insects-and-the-microbiome)
 
 
