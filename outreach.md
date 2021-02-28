@@ -7,7 +7,7 @@ permalink: /outreach/
 If you're interested in applied impact, communicating research is
 nearly as important as the quality of the research itself. I do my
 best to invest time and energy in succinctly and engagingly sharing my
-research as best as I am able, and I enjoy building connections and
+research, and I enjoy building connections and invite
 conversations on the issues I tackle in my work.
 
 For complete list of press coverage and interviews, please see [my
