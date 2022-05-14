@@ -7,7 +7,7 @@ permalink: /publications/
 Below is a list of recent and highlighted publications. For a complete list, please see [my Google Scholar
 page](https://scholar.google.com/citations?user=Kwg1_M0AAAAJ&hl=en), or check out [my CV](/assets/cv.pdf).
  
-Smith, M., Stull, V.J., Patz, J.A., and Myers, S. (2021). [“Nutritional and health benefits of increasing insect consumption in Africa and Asia.” Environmental Research Letters.] (https://iopscience.iop.org/article/10.1088/1748-9326/abf06c/pdf)
+Smith, M., Stull, V.J., Patz, J.A., and Myers, S. (2021). [“Nutritional and health benefits of increasing insect consumption in Africa and Asia.” Environmental Research Letters.](https://iopscience.iop.org/article/10.1088/1748-9326/abf06c/pdf)
 
 Stull, V.J. (2021). “Impacts of Insect Consumption on Human Health: A Review.” Journal of Insects as Food and Feed. 
 
