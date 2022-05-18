@@ -10,7 +10,7 @@ page](https://scholar.google.com/citations?user=Kwg1_M0AAAAJ&hl=en), or check ou
 
 PEER-REVIEWED PUBLICATIONS 
 
-1.	Ventura, M., Stull, V.J., Paskewitz, S. (in press) “Maintaining laboratory populations of Gryllus bimaculatus, a versatile orthopteran model for insect agriculture and invertebrate physiology.” JOVE. 
+Ventura, M., Stull, V.J., Paskewitz, S. (in press) “Maintaining laboratory populations of Gryllus bimaculatus, a versatile orthopteran model for insect agriculture and invertebrate physiology.” JOVE. 
 
 Limaye, V.S., Grabow, M.L., Stull, V.J. (2022). “Improving literacy in climate and health.” The Journal of Climate Change and Health. 
 
@@ -30,7 +30,7 @@ Stull, V.J. and Patz, J.A. (2019) “Research and policy priorities for edible i
 
 Stull, V.J., Kersten, M., Bergmans, R.S., Patz, J.A., Paskewitz, S. (2019) “Crude Protein, Amino Acid, and Iron Content of Tenebrio molitor Reared on an Agricultural Byproduct from Maize Production: an Exploratory Study.” Annals of the Entomological Society of America.
 
-Stull, V.J., Finer, E., Bergmans, R.S., Febvre, H., Longhurst, C., Manter, D., Patz, J., Weir, T.  (2018) “Impact of Edible Cricket Consumption and Gut Microbiota in Healthy Adults, a Double-blind Crossover Trial.”  Scientific Reports. 
+Stull, V.J., Finer, E., Bergmans, R.S., Febvre, H., Longhurst, C., Manter, D., Patz, J., Weir, T.  (2018) [“Impact of Edible Cricket Consumption and Gut Microbiota in Healthy Adults, a Double-blind Crossover Trial.”](https://www.nature.com/articles/s41598-018-29032-2) Scientific Reports. 
 
 Stull, V.J., Wamulume, M., Mwalukanga, M.I., Banda, A., Bergmans, R.S., Bell, M.M. (2018) “We Like Insects Here: Entomophagy and Society in a Zambian Village.” Agriculture and Human Values. 
 
