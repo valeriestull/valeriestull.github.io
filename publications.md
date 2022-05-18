@@ -16,7 +16,7 @@ Limaye, V.S., Grabow, M.L., Stull, V.J. (2022). “Improving literacy in climate
 
 Smith, M., Stull, V.J., Patz, J.A., and Myers, S. (2021). [“Nutritional and health benefits of increasing insect consumption in Africa and Asia."](https://iopscience.iop.org/article/10.1088/1748-9326/abf06c/pdf) Environmental Research Letters 
 
-Stull, V.J. (2021). “Impacts of Insect Consumption on Human Health: A Review.” Journal of Insects as Food and Feed. 
+Stull, V.J. (2021). [“Impacts of Insect Consumption on Human Health: A Review.”](https://www.wageningenacademic.com/doi/pdf/10.3920/JIFF2020.0115) Journal of Insects as Food and Feed. 
 
 Limaye, V.S., Grabow, M.L., Stull, V.J., and Patz, J.A. (2020) [“Developing a Definition of Climate and Health Literacy.”](https://www.healthaffairs.org/doi/10.1377/hlthaff.2020.01116) Health Affairs.
 
