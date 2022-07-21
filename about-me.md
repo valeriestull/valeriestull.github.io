@@ -5,7 +5,7 @@ permalink: /about-me/
 
 I am an interdisciplinary environmental scientist and global health professional with
 12 years of experience and a successful track record of
-interdisciplinary research, project management, fundraising, and
+applied research, project management, fundraising, and
 outreach. I am passionate about the overlap between agriculture, climate change, and human health.
 
 My focal areas are international development, planetary health,
