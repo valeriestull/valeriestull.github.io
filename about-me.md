@@ -3,10 +3,10 @@ title: ABOUT
 permalink: /about-me/
 ---
 
-I am a PhD environmental scientist and planetary health professional with
-10 years of experience and a successful track record of
+I am an interdisciplinary environmental scientist and global health professional with
+12 years of experience and a successful track record of
 interdisciplinary research, project management, fundraising, and
-outreach.
+outreach. I am passionate about the overlap between agriculture, climate change, and human health.
 
 My focal areas are international development, planetary health,
 applied research impact, and cross-cultural partnership.  During my PhD, I
